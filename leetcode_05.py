@@ -59,7 +59,6 @@ class Solution(object):
             i = j
         return ans
 
-        
 
 if __name__ == '__main__':
     s = 'abcbcdbb'
